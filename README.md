@@ -7,15 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/code_render" target="blank"><img src="https://img.shields.io/twitter/follow/code_render?logo=twitter&style=for-the-badge" alt="code_render" /></a> </p>
 
-- 🔭 I’m currently working on an eccomerce website for shopping meals, users can also book table and event reservations [Meal Tab](meal-tab.herokuapp.com)
 
-- 💬 Ask me about **Html5, Css, Django, Jquery, Bootstrap**
+
+- 💬 Ask me about **Html5, Css, Django, Jquery, React.Js Bootstrap**
 
 - 📫 How to reach me **adebimpehabeeb10@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1va_Oh46aiqXyDvWNYhkyN1UZo6InrBh9/view](https://drive.google.com/file/d/1va_Oh46aiqXyDvWNYhkyN1UZo6InrBh9/view)
 
-- ⚡ Fun fact **I love being with funny people**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
